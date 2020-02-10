@@ -34,6 +34,12 @@ h3{
   font-weight:bold;
 }
 
+.top-nav i {
+  font-size:32px;
+  color:darkblue;
+  padding: 6px 14px;
+}
+
 
 
 .top-nav1{
@@ -51,7 +57,7 @@ h3{
 }
 
 .top-nav1 a:hover{
-	background-color:#ADFF2F;
+	background-color: #32A8A8;
 }
 
 .top-nav1 a.active {
@@ -93,7 +99,7 @@ button{
 .button{
   background-color: white;
   border: 3px solid #ADD8E6;
-  color: Green;
+  color: #34AEEb;
   padding: 10px 25px;
   text-align: center;
   text-decoration: none;
