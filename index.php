@@ -9,28 +9,32 @@
 	<script src='https://kit.fontawesome.com/a076d05399.js'></script>
 	<link rel="stylesheet" href="css/style.css">
 	
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+	
 
 </head>
 
 <body>
 	 
 	
-<div class="top-nav">
-		<i class='fas fa-shopping-cart'></i>
-		<a href="login.php">SignIn</a>
-		<a href="signup.php">SignUp</a>
+	
+    <div class="top-nav">
+		
+		<a href="login.php">Log Option</a>
 		<a href="contacts.php">Contacts</a>
 		<a href="offer.php">Fashion</a>
 		<a href="my-cart.php">MyCart</a>
-		<a href="my-cart.php">Checkout</a>
+		<a href="my-cart.php"><!--<i class='fas fa-shopping-cart' style='font-size:24px; color:darkblue; '></i>-->Checkout</a>
 		
 		
 		
 	</div>
-   
+	
 	
 	<div align="center">
-	<h2>E-Commerce Shopping Mart</h2>
+		<h2>E-Commerce Shopping Mart</h2>
     </div>
 
 	<div class="top-nav1">
@@ -48,16 +52,16 @@
 	<p class="Border" </p>
 
 	<div class="w3-content w3-display-container">
-	  <img class="Slidepic" src="img/books.jpg" width="500px" height="300px">
-	  <img class="Slidepic" src="img/cloths1.jpg" width="500px" height="300px">
-	  <img class="Slidepic" src="img/cloths2.jpg" width="500px" height="300px">
-	  <img class="Slidepic" src="img/ele1.jpg" width="500px" height="300px">
-	  <img class="Slidepic" src="img/ele2.jpg" width="500px" height="300px">
-	  <img class="Slidepic" src="img/ele3.jpg" width="500px" height="300px">
-	  <img class="Slidepic" src="img/furniture1.jpg" width="500px" height="300px">
-	  <img class="Slidepic" src="img/furniture2.jpg" width="500px" height="300px">
-	  <img class="Slidepic" src="img/furniture3.jpg" width="500px" height="300px">
-	  <img class="Slidepic" src="img/furniture4.jpg" width="500px" height="300px">
+	  <img class="Slidepic" src="img/books.jpg" width="750px" height="600px">
+	  <img class="Slidepic" src="img/cloths1.jpg" width="750px" height="600px">
+	  <img class="Slidepic" src="img/cloths2.jpg" width="750px" height="600px">
+	  <img class="Slidepic" src="img/ele1.jpg" width="750px" height="600px">
+	  <img class="Slidepic" src="img/ele2.jpg" width="750px" height="600px">
+	  <img class="Slidepic" src="img/ele3.jpg" width="750px" height="600px">
+	  <img class="Slidepic" src="img/furniture1.jpg" width="750px" height="600px">
+	  <img class="Slidepic" src="img/furniture2.jpg" width="750px" height="600px">
+	  <img class="Slidepic" src="img/furniture3.jpg" width="750px" height="600px">
+	  <img class="Slidepic" src="img/furniture4.jpg" width="750px" height="600px">
 	  
 	  
 	 
